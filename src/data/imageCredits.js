@@ -1,0 +1,21 @@
+// Photo credits for images in /public/images. All images are from Wikimedia Commons
+// under free licences. Attribution is shown in the site footer.
+export const IMAGE_CREDITS = [
+  {"file": "/images/hampi.jpg", "title": "Iconic Stone Chariot @ Vittala Temple, Hampi, Karnataka.jpg", "author": "Ram Nagesh Thota", "license": "CC BY-SA 4.0", "source": "https://commons.wikimedia.org/wiki/File:Iconic_Stone_Chariot_@_Vittala_Temple,_Hampi,_Karnataka.jpg"},
+  {"file": "/images/mysuru.jpg", "title": "Illuminated Mysore palace at night.JPG", "author": "Subhashish Panigrahi", "license": "CC BY-SA 3.0", "source": "https://commons.wikimedia.org/wiki/File:Illuminated_Mysore_palace_at_night.JPG"},
+  {"file": "/images/coorg.jpg", "title": "Coffee Plantation in Coorg..jpg", "author": "Rudolph.A.furtado", "license": "CC0", "source": "https://commons.wikimedia.org/wiki/File:Coffee_Plantation_in_Coorg..jpg"},
+  {"file": "/images/gokarna.jpg", "title": "PXL 20260103 101009613 People and Beach Om Beach Gokarna, Karnataka 17.jpg", "author": "Sourabh.biswas003", "license": "CC BY-SA 4.0", "source": "https://commons.wikimedia.org/wiki/File:PXL_20260103_101009613_People_and_Beach_Om_Beach_Gokarna,_Karnataka_17.jpg"},
+  {"file": "/images/chikkamagaluru.jpg", "title": "Mullayanagiri, Chikmagalur district of Karnataka.jpg", "author": "RakeshRaju M", "license": "CC BY-SA 4.0", "source": "https://commons.wikimedia.org/wiki/File:Mullayanagiri,_Chikmagalur_district_of_Karnataka.jpg"},
+  {"file": "/images/belur.jpg", "title": "Chennakesava temple (At Night), Belur 02.jpg", "author": "Rohit14400", "license": "CC BY-SA 4.0", "source": "https://commons.wikimedia.org/wiki/File:Chennakesava_temple_(At_Night),_Belur_02.jpg"},
+  {"file": "/images/halebidu.jpg", "title": "Hoysaleswara Temple at Halebidu.jpg", "author": "Rohit Sharma", "license": "CC BY-SA 4.0", "source": "https://commons.wikimedia.org/wiki/File:Hoysaleswara_Temple_at_Halebidu.jpg"},
+  {"file": "/images/badami.jpg", "title": "Cave Temple 3, Badami.JPG", "author": "Dey.sandip", "license": "CC BY 3.0", "source": "https://commons.wikimedia.org/wiki/File:Cave_Temple_3,_Badami.JPG"},
+  {"file": "/images/pattadakal.jpg", "title": "7th - 9th century Hindu and Jain temples, Pattadakal monuments Karnataka 7.jpg", "author": "Ms Sarah Welch", "license": "CC BY-SA 4.0", "source": "https://commons.wikimedia.org/wiki/File:7th_-_9th_century_Hindu_and_Jain_temples,_Pattadakal_monuments_Karnataka_7.jpg"},
+  {"file": "/images/aihole.jpg", "title": "Durga Temple - Aihole with cloud.jpg", "author": "AmlanTheTramp", "license": "CC BY-SA 4.0", "source": "https://commons.wikimedia.org/wiki/File:Durga_Temple_-_Aihole_with_cloud.jpg"},
+  {"file": "/images/jogfalls.jpg", "title": "Jog Falls 05092016.jpg", "author": "Nikhilb239", "license": "CC BY 3.0", "source": "https://commons.wikimedia.org/wiki/File:Jog_Falls_05092016.jpg"},
+  {"file": "/images/bengaluru.jpg", "title": "Vidhan Soudha Bangalore Front view.JPG", "author": "Rameshng at Malayalam Wikipedia", "license": "CC BY-SA 3.0", "source": "https://commons.wikimedia.org/wiki/File:Vidhan_Soudha_Bangalore_Front_view.JPG"},
+  {"file": "/images/udupi.jpg", "title": "Udupi Sri Krishna Matha Temple.jpg", "author": "Ashok Prabhakaran from Chennai, India", "license": "CC BY-SA 2.0", "source": "https://commons.wikimedia.org/wiki/File:Udupi_Sri_Krishna_Matha_Temple.jpg"},
+  {"file": "/images/murudeshwar.jpg", "title": "Murudeshwar-Shiva-Statue.jpg", "author": "Prasannabanwat", "license": "CC BY-SA 4.0", "source": "https://commons.wikimedia.org/wiki/File:Murudeshwar-Shiva-Statue.jpg"},
+  {"file": "/images/bandipur.jpg", "title": "Elephas maximus (Bandipur).jpg", "author": "Yathin S Krishnappa", "license": "CC BY-SA 3.0", "source": "https://commons.wikimedia.org/wiki/File:Elephas_maximus_(Bandipur).jpg"},
+  {"file": "/images/dandeli.jpg", "title": "Dandeli river rafting.jpg", "author": "sarangib", "license": "CC0", "source": "https://commons.wikimedia.org/wiki/File:Dandeli_river_rafting.jpg"},
+  {"file": "/images/hero.jpg", "title": "Hampi landscape from Matanga Hill, Hampi, India.jpg", "author": "Vyacheslav Argenberg", "license": "CC BY 4.0", "source": "https://commons.wikimedia.org/wiki/File:Hampi_landscape_from_Matanga_Hill,_Hampi,_India.jpg"},
+];

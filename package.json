@@ -1,0 +1,27 @@
+{
+  "name": "yatraai-karnataka",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "description": "YatraAI Karnataka - AI travel planner prototype for the Kannada Digital Innovation Hackathon 2026",
+  "scripts": {
+    "dev": "vite --host 0.0.0.0",
+    "build": "vite build",
+    "preview": "vite preview --host 0.0.0.0",
+    "test": "vitest run",
+    "test:watch": "vitest",
+    "test:e2e": "node e2e/smoke.cjs",
+    "test:e2e:ai": "node e2e/ai-mode.cjs"
+  },
+  "dependencies": {
+    "lucide-react": "^0.468.0",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.3.4",
+    "playwright": "^1.49.1",
+    "vite": "^5.4.11",
+    "vitest": "^2.1.8"
+  }
+}
